@@ -1,0 +1,13 @@
+package assignments.day_3;
+
+public class question1 {
+
+	public static void main(String[] args) {
+		
+		
+		int count = 11;
+		System.out.println(count);
+
+	}
+
+}
