@@ -1,1 +1,164 @@
 
+package assignments.day_2;
+
+public class Question1 {
+	
+	public static void main(String[] args) {
+		
+		
+		System.out.println("I am ready to be a Java Pro:)");
+		
+		
+	}
+
+}
+
+
+package assignments.day_2;
+
+public class Question2 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Sarican" + ", " + "Dilruba");
+	
+		
+		
+	}
+	
+}
+
+
+package assignments.day_2;
+
+public class Question3 {
+	
+	public static void main(String[] args) {
+		
+		System.out.println("1\n2\n3\n4\n5\n6\n7\n8\n9\n10");
+		
+		
+	}
+
+}
+
+
+
+package assignments.day_2;
+
+public class Question4 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Q");
+		
+		
+	}
+}
+
+
+
+
+
+
+
+package assignments.day_2;
+
+public class Question5 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("* * * * * * *");
+		System.out.println("* *       * *");
+		System.out.println("*   *   *   *");
+		System.out.println("*     *     *");
+		System.out.println("*   *   *   *");
+		System.out.println("* *       * *");
+		System.out.println("* * * * * * *");
+		
+		
+		
+	}
+}
+
+
+package assignments.day_2;
+
+public class Question6 {
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		System.out.println("            ^");
+		System.out.println("           / \\");
+		System.out.println("          /   \\");
+		System.out.println("         /     \\");
+		System.out.println("         |     |");
+		System.out.println("         |     |");
+		System.out.println("         |     |");
+		System.out.println("         |     |");
+		System.out.println("         |     |");
+		System.out.println("         |     |");
+		System.out.println("         _______");
+	}
+}
+
+
+
+package assignments.day_2;
+
+public class Question7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("   /\\  /\\");
+		System.out.println("  /__\\/__\\");
+		
+		System.out.println();
+		
+		System.out.println("I " + "am " + "from " + "\"Germany\".");
+		
+		System.out.println();
+		
+		System.out.println("How is your day going on \'good\' or \'bad\'?");
+
+	}
+
+}
+
+
+package assignments.day_2;
+
+public class Question8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		System.out.println("   ******             *****");
+		System.out.println("   **   **          **");
+		System.out.println("   **    **           **    ");
+		System.out.println("   **     **           **");
+		System.out.println("   **     **            **");
+		System.out.println("   **    **              **");
+		System.out.println("   **   **              **");
+		System.out.println("   ****              ****");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
+
+
+
+
