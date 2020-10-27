@@ -8,7 +8,7 @@ public class Q08_rotateFirstTwoCharsLeft {
 //		The string length will be at least 2.
 //				left2("Hello") → "lloHe"
 //				left2("java") → "vaja"
-//	         	left2("Hi") → "Hi"
+//	         	        left2("Hi") → "Hi"
 		
 		
 		System.out.println(left2("Hello"));
